@@ -26,3 +26,9 @@ Template Name                                 Short Name           Language    T
 --------------------------------------------  -------------------  ----------  ------------------------------
 
 ASP.NET Clean Architecture Solution           clean-arch           [C#]        Web/ASP.NET/Clean Architecture
+
+
+
+PS C:\Users\junxian428\Desktop\CleanArchitecture> dotnet new clean-arch -o junxian428.DotNetConf
+
+The template "ASP.NET Clean Architecture Solution" was created successfully.
